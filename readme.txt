@@ -9,3 +9,6 @@ deactivate
 pip freeze > requirements.txt
 
 pip install -r requirements.txt
+
+
+pip install pillow psutil opencv-python
