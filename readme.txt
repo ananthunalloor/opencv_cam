@@ -1,3 +1,5 @@
+python -m venv cam
+
 cam\Scripts\activate.bat
 
 python cam.py
